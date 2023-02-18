@@ -1,9 +1,9 @@
 [![MasterHead](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Bapan Mandal</h1>
+<h1 align="center">Hi 👋 there, This is Bapan Mandal</h1>
 <h3 align="center">A passionate Android Native developer as well as Flutter Developerfrom India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- 🔭 I’m currently making [a Food apps](https://github.com/Bapan2003/food_apps)
+   
+- 🔭Currently I'm pursuing Bechalor of Trchnology in Computer Science and Engineering. 
 
 - 🌱 I’m currently learning **Flutter**
 
