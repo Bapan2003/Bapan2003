@@ -5,7 +5,7 @@
    
 - 🔭Currently I'm pursuing Bechalor of Technology in Computer Science and Engineering. 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Framework**
 
 - 💬 Ask me about **Android and java**
 
