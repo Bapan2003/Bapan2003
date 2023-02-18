@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bapanmandal95470@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PLOEvMyEKERlhlEeqXnBlszV_Xh06Sra/view?usp=drivesdk](https://drive.google.com/file/d/1PLOEvMyEKERlhlEeqXnBlszV_Xh06Sra/view?usp=drivesdk)
+- 📄my resume [https://drive.google.com/file/d/1PLOEvMyEKERlhlEeqXnBlszV_Xh06Sra/view?usp=drivesdk](https://drive.google.com/file/d/1PLOEvMyEKERlhlEeqXnBlszV_Xh06Sra/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
