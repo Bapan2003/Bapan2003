@@ -10,9 +10,9 @@
 - 💬 Ask me about **Android and java**
 
 - 📫 How to reach me **bapanmandal95470@gmail.com**
-
-- 📄my resume [https://drive.google.com/file/d/1HdyoakQWJZMMsspMWWVjDm3W135jkL81/view?usp=sharing](https://drive.google.com/file/d/1HdyoakQWJZMMsspMWWVjDm3W135jkL81/view?usp=sharing)
-
+<p align="left">
+- <a href="https://drive.google.com/file/d/1HdyoakQWJZMMsspMWWVjDm3W135jkL81/view?usp=sharing" >My Resume</a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bapan-mandal-394379243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bapan-mandal-394379243/" height="30" width="40" /></a>
