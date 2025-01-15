@@ -4,9 +4,9 @@
    
 - 🔭Currently I'm pursuing Bechalor of Technology in Computer Science and Engineering. 
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **Flutter BLOC State Management**
 
-- 💬 Ask me about **Android and java**
+- 💬 Ask me about **Flutter, Android and java**
 
 - 📫 How to reach me **bapanmandal95470@gmail.com**
 - 📄 My Resume <a href="https://drive.google.com/file/d/1HdyoakQWJZMMsspMWWVjDm3W135jkL81/view?usp=sharing" >📎</a>
